@@ -1,0 +1,5 @@
+# Only for helping with building and publishing
+services:
+  epoll-api:
+    build: .
+    image: koxanybak/epoll
