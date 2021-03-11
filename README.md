@@ -31,4 +31,3 @@ Run the application
 dotnet run
 ```
 The application is accessible at http://localhost:5000
-API declaration can be found at root readme.
